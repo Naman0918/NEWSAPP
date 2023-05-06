@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(#2adbeb, #2d3235);
+  /* background: linear-gradient(#141e30, #243b55);*/
+}
+
+.container{
+  color: white;
+}
+.card-title{
+  color: black;
+}
+.card-text{
+  color: black;
+
+}
